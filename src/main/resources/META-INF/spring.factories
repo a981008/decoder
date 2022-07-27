@@ -1,0 +1,3 @@
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.wang.decoder.autoconfigure.DecoderAutoConfiguration
